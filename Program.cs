@@ -11,7 +11,6 @@ namespace AzureKeyVaultBackup
     ///     AZURE-KEY-VAULT-URI: URL to the key vault
     ///     AZURE-CLIENT-ID: Client ID of the app in azure
     ///     AZURE-CLIENT-SECRET: Secret to the client ID
-    ///     AZURE-TENANT-ID: Tenant to the client ID
     /// </summary>
     public class Program
     {
